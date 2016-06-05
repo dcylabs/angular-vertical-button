@@ -1,0 +1,9 @@
+{
+  "name": "dcylabs-vertical-button",
+  "description": "dcylabs vertical button",
+  "authors": [
+    "Dcylabs <dcylabs@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": false
+}
